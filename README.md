@@ -14,4 +14,6 @@ Sigmoid Viral Probability: Low-quality content has a near-zero chance of going v
 -Modern UI: Built with CustomTkinter for a sleek, dark-themed desktop experience.
 
 # 💻 Installation
-Install the requirements. Just run the code.
+Import the requirements. Just run the code.
+```bash
+pip install -r requirements.txt
