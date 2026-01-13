@@ -9,10 +9,10 @@ Exponential Production Cost: As content quality approaches 100%, the time requir
 Sigmoid Viral Probability: Low-quality content has a near-zero chance of going viral. Success probability increases rapidly after a certain quality threshold before hitting diminishing returns.
 
 # 🛠 Features
--Interactive Simulation: Adjust timeframes and complexity in real-time using a modern GUI.
--Dynamic Visualization: Real-time graphing of success curves and production volume.
--Optimal Point Detection: Automatically calculates the exact quality level that maximizes your viral potential.
--Modern UI: Built with CustomTkinter for a sleek, dark-themed desktop experience.
+--Interactive Simulation: Adjust timeframes and complexity in real-time using a modern GUI.
+--Dynamic Visualization: Real-time graphing of success curves and production volume.
+--Optimal Point Detection: Automatically calculates the exact quality level that maximizes your viral potential.
+--Modern UI: Built with CustomTkinter for a sleek, dark-themed desktop experience.
 
 # 💻 Installation
 Import the requirements. Just run the code.
