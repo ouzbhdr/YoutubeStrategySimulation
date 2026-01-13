@@ -1,6 +1,7 @@
-
 # 🚀 YoutubeStrategySimulation
 A simple simulation that shows which is more important on youtube: quality or quantity 
+
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 
 # 🧠 The Mathematics Behind
 The simulation relies on two core mathematical principles:
